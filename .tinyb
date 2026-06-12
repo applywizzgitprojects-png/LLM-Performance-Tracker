@@ -1,0 +1,14 @@
+{
+    "host": "https://api.europe-west2.gcp.tinybird.co",
+    "id": "22250800-aaf2-48f1-9462-5b8eef62db53",
+    "name": "my_eorkspace",
+    "scope": "user",
+    "token": "p.eyJ1IjogIjIyMjUwODAwLWFhZjItNDhmMS05NDYyLTViOGVlZjYyZGI1MyIsICJpZCI6ICJmZDg3MDcyMi1mYTU2LTQ3ODYtOTNiNC0xYmI2YmZmNmMxNWYiLCAiaG9zdCI6ICJnY3AtZXVyb3BlLXdlc3QyIn0.1wyI1dY2UQm8lAvJy1-aZV7L8hQVmhjy7_gD3wbjEFg",
+    "tokens": {
+        "https://api.europe-west2.gcp.tinybird.co": "p.eyJ1IjogIjIyMjUwODAwLWFhZjItNDhmMS05NDYyLTViOGVlZjYyZGI1MyIsICJpZCI6ICJmZDg3MDcyMi1mYTU2LTQ3ODYtOTNiNC0xYmI2YmZmNmMxNWYiLCAiaG9zdCI6ICJnY3AtZXVyb3BlLXdlc3QyIn0.1wyI1dY2UQm8lAvJy1-aZV7L8hQVmhjy7_gD3wbjEFg"
+    },
+    "user_email": "maryalaharshitha2004@gmail.com",
+    "user_id": "fe20b47b-31cc-4b2d-8788-1e698607d97c",
+    "user_token": "p.eyJ1IjogImZlMjBiNDdiLTMxY2MtNGIyZC04Nzg4LTFlNjk4NjA3ZDk3YyIsICJpZCI6ICI4MWUzOGI1Yy0yM2I5LTQ2ZDEtOWFkNC01NWEwYjNkNTZiYmEiLCAiaG9zdCI6ICJnY3AtZXVyb3BlLXdlc3QyIn0.2gLiyc5-jm4N3bLzYBGkMWkh1BwOrtUewLH9Z3NWEoc",
+    "version": "0.0.1.dev300"
+}

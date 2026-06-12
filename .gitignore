@@ -1,3 +1,4 @@
 .DS_Store
 node_modules
 tinybird/mock/*.ndjson
+tinybird2/fixtures/llm_events.ndjson
